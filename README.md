@@ -8,3 +8,4 @@ Implementations for various well-known algorithms.
 
 | Algorithm | Solution |
 |:---------:|:--------:|
+|Merge Sort|[MergeSort.java](src/com/popcristianvlad/algorithms/practice/MergeSort.java)|
